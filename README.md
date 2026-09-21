@@ -45,8 +45,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deschamps11&show_icons=true&hide_border=true&title_color=B39CD0&icon_color=F5B0CB&text_color=7A7A7A&hide_bg=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deschamps11&layout=compact&hide_border=true&title_color=B39CD0&text_color=7A7A7A&hide_bg=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deschamps11&show_icons=true&hide_border=true&title_color=B39CD0&icon_color=F5B0CB&text_color=7A7A7A&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deschamps11&layout=compact&hide_border=true&title_color=B39CD0&text_color=7A7A7A&theme=transparent" width="48%" />
 </p>
 
 ---
@@ -54,6 +54,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ0bDAyZ2Z3ZnZ1cThnbHhqbnNndXl1eTl2ZHFtcWZwaXBwbXRrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTndyTOSgPjHrtL2/giphy.gif" alt="Pixel Spiderman" width="100" />
+  <img src="https://media1.tenor.com/m/cE01i-vA4jUAAAAC/spider-man-run.gif?v=1" alt="Pixel Spiderman" width="100" />
   <hr style="border: 2px solid #B39CD0; width: 60%; margin-top: 5px;" />
 </div>
