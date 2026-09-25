@@ -57,3 +57,6 @@
   <img src="https://i.pinimg.com/originals/a0/0b/c3/a00bc3289069d301db54bb9640989f66.gif" alt="Pixel Spiderman" width="80" />
   <hr style="border: 2px solid #B39CD0; width: 60%; margin-top: 5px;" />
 </div>
+
+
+![snake gif](https://github.com/deschamps11/deschamps11/blob/output/github-contribution-grid-snake.gif)
