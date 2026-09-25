@@ -46,17 +46,4 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deschamps11&show_icons=true&hide_border=true&title_color=B39CD0&icon_color=F5B0CB&text_color=7A7A7A&bg_color=00000000&ignore_cache=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deschamps11&layout=compact&hide_border=true&title_color=B39CD0&text_color=7A7A7A&bg_color=00000000&ignore_cache=true" width="48%" />
-</p>
-
----
-
-<br/>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/a0/0b/c3/a00bc3289069d301db54bb9640989f66.gif" alt="Pixel Spiderman" width="80" />
-  <hr style="border: 2px solid #B39CD0; width: 60%; margin-top: 5px;" />
-</div>
-
-
-![snake gif](https://github.com/deschamps11/deschamps11/blob/output/github-contribution-grid-snake.gif)
+  <img src="
