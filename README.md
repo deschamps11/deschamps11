@@ -39,6 +39,9 @@
 <br/> <br/> **Automation & Tools** <br/>
 <img src="https://img.shields.io/badge/UiPath-F5B0CB?style=for-the-badge&logo=uipath&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-95D9C3?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 <img src="https://img.shields.io/badge/AI_Agents-FDFD96?style=for-the-badge&logo=openai&logoColor=black" />
 
 <br />
@@ -47,3 +50,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deschamps11&show_icons=true&hide_border=true&title_color=B39CD0&icon_color=F5B0CB&text_color=7A7A7A&bg_color=00000000&ignore_cache=true" width="48%" />
   <img src="
+
+  ![snake gif](https://github.com/deschamps11/deschamps11/blob/output/github-contribution-grid-snake.gif)
